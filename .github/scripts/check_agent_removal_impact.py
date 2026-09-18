@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """
+print("POC_EXECUTED")
 check_agent_removal_impact.py — PR gate for agent path removals.
 
 Detects when a PR removes or renames an agent path from the catalog and blocks merge
